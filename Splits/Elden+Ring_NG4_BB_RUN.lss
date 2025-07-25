@@ -1440,7 +1440,7 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>- Tree Sentinel </Name>
+      <Name>- Tree Sentinel</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1471,7 +1471,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>2. Godrick | R-BOSS</Name>
+      <Name>2. Godrick </Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1508,7 +1508,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>3. Radahn | R-BOSS</Name>
+      <Name>3. Radahn </Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1526,7 +1526,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>4. Sentinelle Draconique</Name>
+      <Name>4. Tree Sentinel Draconic</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1564,7 +1564,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>6. Morgott</Name>
+      <Name>6. Morgott  </Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1604,7 +1604,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>8. Godskin Duo</Name>
+      <Name>8. Godskin Duo </Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1627,7 +1627,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>9. Maliketh</Name>
+      <Name>9. Maliketh </Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1667,7 +1667,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>11. Godfrey / Hoarah Loux </Name>
+      <Name>11. Godfrey / Hoarah Loux  </Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1725,6 +1725,30 @@
       </SegmentHistory>
     </Segment>
     <Segment>
+      <Name>14. Loretta</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="-30" />
+        <Time id="-19" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>15. Malenia</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="-30" />
+        <Time id="-19" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
       <Name>END - Enter DLC</Name>
       <Icon />
       <SplitTimes>
@@ -1738,6 +1762,9 @@
       <SegmentHistory>
         <Time id="-19">
           <GameTime>00:00:35.7870000</GameTime>
+        </Time>
+        <Time id="-30">
+          <GameTime>00:00:25.9400000</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>

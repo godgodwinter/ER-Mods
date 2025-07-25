@@ -1,28 +1,78 @@
-# ER-Mods
+# \# ER-Mods
 
 # 
 
-# Elden Ring Mods
+# Kumpulan mod dan tools untuk \*\*Elden Ring\*\*.
+
+# a
+
+# ---
 
 # 
 
-# \- SaveChar :
+# \## 📁 SaveChar
 
-# &nbsp;   - NG+4
+# \- NG+4
 
-# &nbsp;   - NG+7
+# \- NG+7
 
-# \- Splits :
+# 
 
-# &nbsp;   - BB-RUN: Any %
+# ---
 
-# \- Mods-1 :
+# 
 
-# &nbsp;   - Gods Merchant
+# \## 🏁 Splits
 
-# &nbsp;   - DFM ~~/ Duchess Moveset~~
+# \- \*\*BB-RUN\*\*: Any%
 
-# &nbsp;   - remove\_weapon\_req
+# 
 
-# &nbsp;   - \*\*~~Seamless Co-op ()~~\*\*
+# ---
+
+# 
+
+# \## 🛠️ Mods / Tools
+
+# \- \[Death Counter](https://www.nexusmods.com/eldenring/mods/2989?tab=files)  
+
+# \- \[ER Save Copy](https://www.nexusmods.com/eldenring/mods/5523)
+
+# 
+
+# ---
+
+# 
+
+# \## 🧩 Mods-1
+
+# \- Glorious Merchant  
+
+# \- Transmogrify Armor  
+
+# \- ~~DFM // Duchess Moveset~~  
+
+# \- remove\_weapon\_req  
+
+# \- ~~\*\*Seamless Co-op\*\*~~
+
+# 
+
+# ---
+
+# 
+
+# \## 📦 Sourcesa
+
+# \- \[Mod Engine 2 (1 Sep 2023)](https://github.com/soulsmods/ModEngine2/releases)  
+
+# \- \[Glorious Merchant (15 Jun 2025)](https://www.nexusmods.com/eldenring/mods/5192)  
+
+# \- \[Transmogrify Armor (19 Jul 2025)](https://www.nexusmods.com/eldenring/mods/3596)  
+
+# \- \[DMN / Deflect Me Not (24 Jul 2025)](https://www.nexusmods.com/eldenring/mods/4138)  
+
+# \- \[Seamless Co-op (21 Jan 2025)](https://www.nexusmods.com/eldenring/mods/510)
+
+
 
