@@ -18,7 +18,7 @@
     <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>0</AttemptCount>
+  <AttemptCount>1</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="03/16/2023 21:45:34" isStartedSynced="True" ended="03/16/2023 21:46:31" isEndedSynced="True" />
     <Attempt id="2" started="03/17/2023 17:55:17" isStartedSynced="True" ended="03/17/2023 17:55:19" isEndedSynced="True" />
@@ -1437,6 +1437,10 @@
     <Attempt id="1331" started="04/17/2025 04:00:09" isStartedSynced="True" ended="04/17/2025 04:00:21" isEndedSynced="True" />
     <Attempt id="1332" started="04/17/2025 04:00:43" isStartedSynced="True" ended="04/17/2025 04:00:51" isEndedSynced="True" />
     <Attempt id="1333" started="04/17/2025 04:01:14" isStartedSynced="True" ended="04/17/2025 04:03:01" isEndedSynced="True" />
+    <Attempt id="1334" started="07/25/2025 09:39:41" isStartedSynced="True" ended="07/25/2025 09:40:07" isEndedSynced="True" />
+    <Attempt id="1335" started="07/25/2025 09:44:34" isStartedSynced="True" ended="07/25/2025 10:27:08" isEndedSynced="True">
+      <PauseTime>00:07:59.8225143</PauseTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -1445,8 +1449,17 @@
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:01.1108530</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1334">
+          <RealTime>00:00:01.1108530</RealTime>
+        </Time>
+        <Time id="1335">
+          <RealTime>00:10:24.8493109</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>- Tree Sentinel</Name>
@@ -1454,8 +1467,17 @@
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:00.7913704</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1334">
+          <RealTime>00:00:00.7913704</RealTime>
+        </Time>
+        <Time id="1335">
+          <RealTime>00:07:27.3398062</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>1. Margit</Name>
@@ -1466,9 +1488,17 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
+        <RealTime>00:00:00.7598102</RealTime>
         <GameTime>00:02:28.7880000</GameTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1334">
+          <RealTime>00:00:00.7598102</RealTime>
+        </Time>
+        <Time id="1335">
+          <RealTime>00:06:54.8324932</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>2. Godrick</Name>
@@ -1479,11 +1509,18 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
+        <RealTime>00:00:00.6929837</RealTime>
         <GameTime>00:02:08.4460000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="-19">
           <GameTime>00:02:49.8969990</GameTime>
+        </Time>
+        <Time id="1334">
+          <RealTime>00:00:00.6929837</RealTime>
+        </Time>
+        <Time id="1335">
+          <RealTime>00:09:31.6165464</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -1532,13 +1569,13 @@
         <GameTime>00:00:55.2160000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
+        <Time id="-31">
+          <GameTime>00:00:55.2160000</GameTime>
+        </Time>
         <Time id="-19">
           <GameTime>00:00:56.0390000</GameTime>
         </Time>
         <Time id="-15" />
-        <Time id="-31">
-          <GameTime>00:00:55.2160000</GameTime>
-        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>

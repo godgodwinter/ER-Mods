@@ -72,7 +72,7 @@
 
 # 
 
-# \## 📦 Sourcesa
+# \## 📦 Sources
 
 # \- \[Mod Engine 2 (1 Sep 2023)](https://github.com/soulsmods/ModEngine2/releases)  
 

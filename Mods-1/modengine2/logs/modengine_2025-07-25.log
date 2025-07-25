@@ -409,3 +409,26 @@
 [2025-07-25 16:05:20.083] [modengine] [info] Enabled extension mod_loader
 [2025-07-25 16:05:20.135] [modengine] [info] Applied 3 hooks
 [2025-07-25 16:05:20.139] [modengine] [info] Starting worker thread
+[2025-07-25 16:38:32.639] [modengine] [info] Attempting to load global config at C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\modengine2\config.toml
+[2025-07-25 16:38:32.639] [modengine] [info] Attempting to load mod settings config at C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\config_eldenring.toml
+[2025-07-25 16:38:32.640] [modengine] [info] Local config loaded
+[2025-07-25 16:38:32.640] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2025-07-25 16:38:32.640] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-07-25 16:38:32.640] [modengine] [info] Main thread ID: 6372
+[2025-07-25 16:38:32.643] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\SeamlessCoop/ersc.dll
+[2025-07-25 16:38:35.110] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ertransmogrify.dll
+[2025-07-25 16:38:35.112] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ermerchant.dll
+[2025-07-25 16:38:35.113] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\NoStatsRequirement.dll
+[2025-07-25 16:38:35.113] [modengine] [warning] External dll C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\NoStatsRequirement.dll at base address 0x7ff806510000 is not a modengine extension
+[2025-07-25 16:38:35.113] [modengine] [info] Enabling extension base
+[2025-07-25 16:38:35.113] [modengine] [info] Enabled extension base
+[2025-07-25 16:38:35.113] [modengine] [info] Enabling extension mod_loader
+[2025-07-25 16:38:35.113] [modengine] [info] Installing mod location mod\DMN\DMN-Vanilla
+[2025-07-25 16:38:35.113] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN-Vanilla
+[2025-07-25 16:38:35.113] [modengine] [info] Installing mod location mod\BASIC\fp
+[2025-07-25 16:38:35.113] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\fp
+[2025-07-25 16:38:35.113] [modengine] [info] Installing mod location mod\BASIC\campur
+[2025-07-25 16:38:35.113] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\campur
+[2025-07-25 16:38:35.113] [modengine] [info] Enabled extension mod_loader
+[2025-07-25 16:38:35.153] [modengine] [info] Applied 3 hooks
+[2025-07-25 16:38:35.157] [modengine] [info] Starting worker thread
