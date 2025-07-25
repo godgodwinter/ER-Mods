@@ -15,6 +15,7 @@ debug = false
         "SeamlessCoop/ersc.dll",
         "dll\\ertransmogrify.dll",
         "dll\\ermerchant.dll",
+        "dll\\NoStatsRequirement.dll",
     ]
 
 # Mod loader configuration
@@ -44,18 +45,14 @@ mods = [
     # !nr
     # { enabled = true, name = "NR-DUCHESS_MOV_ONLY", path = "mod\\NR\\DUCHESS_MOV_ONLY" },
     # !dmn
-    { enabled = true, name = "DMN_V3_EXP37", path = "mod\\DMN\\DMN_V3_EXP37" },
-    { enabled = true, name = "DMN_CLEAVER", path = "mod\\DMN\\DMN-Clever" },
+    # { enabled = true, name = "DMN_V3_EXP37", path = "mod\\DMN\\DMN_V3_EXP37" },
     { enabled = true, name = "DMN-Vanilla", path = "mod\\DMN\\DMN-Vanilla" },
     # !skin
-    { enabled = true, name = "SKIN-TORRENT", path = "mod\\SKIN\\TORRENT" },
-    { enabled = true, name = "SKIN-REVENANT", path = "mod\\SKIN\\REVENANT" },
-    # { enabled = true, name = "default", path = "mod" },
+    # { enabled = true, name = "SKIN-TORRENT", path = "mod\\SKIN\\TORRENT" },
     # !basic
-    { enabled = true, name = "remove_weapon_req", path = "mod\\BASIC\\remove_weapon_req" },
-    { enabled = true, name = "basic_campur_remove_weapon_req", path = "mod\\BASIC\\remove_weapon_req" },
+    { enabled = true, name = "basic_fp", path = "mod\\BASIC\\fp" },
     { enabled = true, name = "basic_campur", path = "mod\\BASIC\\campur" },
-    # { enabled = true, name = "basic_campur_regen", path = "mod\\BASIC\\regen" },
+    # { enabled = true, name = "default", path = "mod" },
 ]
 
 # When enabled, scylla hide will be injected into the game. This allows for antidebug measures in the game to be bypassed so that you can attach

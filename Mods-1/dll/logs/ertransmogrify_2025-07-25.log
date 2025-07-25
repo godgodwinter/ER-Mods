@@ -16,3 +16,87 @@
 [2025-07-25 13:20:44.729] [transmog] [info] initialize_delay = 0
 [2025-07-25 13:20:44.729] [transmog] [info] client_side_only = false
 [2025-07-25 13:20:44.819] [transmog] [info] Deinitialized transmog
+[2025-07-25 15:35:55.066] [transmog] [info] Transmog version 2.4.10
+[2025-07-25 15:35:55.066] [transmog] [info] Loading config from C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ertransmogrify.ini
+[2025-07-25 15:35:55.066] [transmog] [info] include_unobtained_armor = true
+[2025-07-25 15:35:55.066] [transmog] [info] include_cut_armor = true
+[2025-07-25 15:35:55.066] [transmog] [info] include_dlc_armor = true
+[2025-07-25 15:35:55.066] [transmog] [info] patch_grace_talk_script = true
+[2025-07-25 15:35:55.066] [transmog] [info] initialize_delay = 0
+[2025-07-25 15:35:55.066] [transmog] [info] client_side_only = false
+[2025-07-25 15:36:07.281] [transmog] [info] Hooking transmog messages...
+[2025-07-25 15:36:07.283] [transmog] [info] Waiting for messages...
+[2025-07-25 15:36:07.284] [transmog] [info] Detected game language = english
+[2025-07-25 15:36:07.284] [transmog] [info] Adding transmog VFX...
+[2025-07-25 15:36:08.288] [transmog] [info] Adding transmog shops...
+[2025-07-25 15:36:09.294] [transmog] [info] Hooking talk scripts...
+[2025-07-25 15:36:09.351] [transmog] [info] Initialized transmog
+[2025-07-25 15:36:30.355] [transmog] [info] Deinitialized transmog
+[2025-07-25 15:36:44.872] [transmog] [info] Transmog version 2.4.10
+[2025-07-25 15:36:44.872] [transmog] [info] Loading config from C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ertransmogrify.ini
+[2025-07-25 15:36:44.872] [transmog] [info] include_unobtained_armor = true
+[2025-07-25 15:36:44.872] [transmog] [info] include_cut_armor = true
+[2025-07-25 15:36:44.872] [transmog] [info] include_dlc_armor = true
+[2025-07-25 15:36:44.872] [transmog] [info] patch_grace_talk_script = true
+[2025-07-25 15:36:44.872] [transmog] [info] initialize_delay = 0
+[2025-07-25 15:36:44.872] [transmog] [info] client_side_only = false
+[2025-07-25 15:36:56.086] [transmog] [info] Hooking transmog messages...
+[2025-07-25 15:36:56.086] [transmog] [info] Waiting for messages...
+[2025-07-25 15:36:56.087] [transmog] [info] Detected game language = english
+[2025-07-25 15:36:56.087] [transmog] [info] Adding transmog VFX...
+[2025-07-25 15:36:57.093] [transmog] [info] Adding transmog shops...
+[2025-07-25 15:36:58.099] [transmog] [info] Hooking talk scripts...
+[2025-07-25 15:36:58.147] [transmog] [info] Initialized transmog
+[2025-07-25 15:38:19.094] [transmog] [info] Patching state group x31
+[2025-07-25 15:39:00.568] [transmog] [info] Deinitialized transmog
+[2025-07-25 15:48:34.480] [transmog] [info] Transmog version 2.4.10
+[2025-07-25 15:48:34.480] [transmog] [info] Loading config from C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ertransmogrify.ini
+[2025-07-25 15:48:34.481] [transmog] [info] include_unobtained_armor = true
+[2025-07-25 15:48:34.481] [transmog] [info] include_cut_armor = true
+[2025-07-25 15:48:34.481] [transmog] [info] include_dlc_armor = true
+[2025-07-25 15:48:34.481] [transmog] [info] patch_grace_talk_script = true
+[2025-07-25 15:48:34.481] [transmog] [info] initialize_delay = 0
+[2025-07-25 15:48:34.481] [transmog] [info] client_side_only = false
+[2025-07-25 15:48:46.675] [transmog] [info] Hooking transmog messages...
+[2025-07-25 15:48:46.676] [transmog] [info] Waiting for messages...
+[2025-07-25 15:48:46.676] [transmog] [info] Detected game language = english
+[2025-07-25 15:48:46.676] [transmog] [info] Adding transmog VFX...
+[2025-07-25 15:48:47.681] [transmog] [info] Adding transmog shops...
+[2025-07-25 15:48:48.692] [transmog] [info] Hooking talk scripts...
+[2025-07-25 15:48:48.771] [transmog] [info] Initialized transmog
+[2025-07-25 15:59:26.261] [transmog] [info] Patching state group x31
+[2025-07-25 16:00:33.608] [transmog] [info] Deinitialized transmog
+[2025-07-25 16:02:36.059] [transmog] [info] Transmog version 2.4.10
+[2025-07-25 16:02:36.059] [transmog] [info] Loading config from C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ertransmogrify.ini
+[2025-07-25 16:02:36.060] [transmog] [info] include_unobtained_armor = true
+[2025-07-25 16:02:36.060] [transmog] [info] include_cut_armor = true
+[2025-07-25 16:02:36.060] [transmog] [info] include_dlc_armor = true
+[2025-07-25 16:02:36.060] [transmog] [info] patch_grace_talk_script = true
+[2025-07-25 16:02:36.060] [transmog] [info] initialize_delay = 0
+[2025-07-25 16:02:36.060] [transmog] [info] client_side_only = false
+[2025-07-25 16:02:47.301] [transmog] [info] Hooking transmog messages...
+[2025-07-25 16:02:47.301] [transmog] [info] Waiting for messages...
+[2025-07-25 16:02:47.302] [transmog] [info] Detected game language = english
+[2025-07-25 16:02:47.302] [transmog] [info] Adding transmog VFX...
+[2025-07-25 16:02:48.306] [transmog] [info] Adding transmog shops...
+[2025-07-25 16:02:49.312] [transmog] [info] Hooking talk scripts...
+[2025-07-25 16:02:49.370] [transmog] [info] Initialized transmog
+[2025-07-25 16:03:28.030] [transmog] [info] Deinitialized transmog
+[2025-07-25 16:05:20.080] [transmog] [info] Transmog version 2.4.10
+[2025-07-25 16:05:20.080] [transmog] [info] Loading config from C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ertransmogrify.ini
+[2025-07-25 16:05:20.080] [transmog] [info] include_unobtained_armor = true
+[2025-07-25 16:05:20.080] [transmog] [info] include_cut_armor = true
+[2025-07-25 16:05:20.080] [transmog] [info] include_dlc_armor = true
+[2025-07-25 16:05:20.080] [transmog] [info] patch_grace_talk_script = true
+[2025-07-25 16:05:20.080] [transmog] [info] initialize_delay = 0
+[2025-07-25 16:05:20.080] [transmog] [info] client_side_only = false
+[2025-07-25 16:05:31.338] [transmog] [info] Hooking transmog messages...
+[2025-07-25 16:05:31.339] [transmog] [info] Waiting for messages...
+[2025-07-25 16:05:31.340] [transmog] [info] Detected game language = english
+[2025-07-25 16:05:31.340] [transmog] [info] Adding transmog VFX...
+[2025-07-25 16:05:32.345] [transmog] [info] Adding transmog shops...
+[2025-07-25 16:05:33.352] [transmog] [info] Hooking talk scripts...
+[2025-07-25 16:05:33.419] [transmog] [info] Initialized transmog
+[2025-07-25 16:06:25.741] [transmog] [info] Patching state group x31
+[2025-07-25 16:07:00.509] [transmog] [info] Patching state group x31
+[2025-07-25 16:12:53.146] [transmog] [info] Deinitialized transmog

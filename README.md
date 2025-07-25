@@ -84,6 +84,8 @@
 
 # \- \[Seamless Co-op (21 Jan 2025)](https://www.nexusmods.com/eldenring/mods/510)
 
+#  remove\_weapon\_req   : https://github.com/ImAxel0/EldenRing-NoStatsRequirement-Mod
+
 
 
 
