@@ -1,0 +1,217 @@
+[2025-07-25 13:20:13.299] [modengine] [info] Attempting to load global config at C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\modengine2\config.toml
+[2025-07-25 13:20:13.299] [modengine] [info] Attempting to load mod settings config at C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\config_eldenring.toml
+[2025-07-25 13:20:13.299] [modengine] [info] Local config loaded
+[2025-07-25 13:20:13.299] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2025-07-25 13:20:13.299] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-07-25 13:20:13.299] [modengine] [info] Main thread ID: 5916
+[2025-07-25 13:20:13.418] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\SeamlessCoop/ersc.dll
+[2025-07-25 13:20:15.995] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ertransmogrify.dll
+[2025-07-25 13:20:16.028] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ermerchant.dll
+[2025-07-25 13:20:16.028] [modengine] [info] Enabling extension base
+[2025-07-25 13:20:16.028] [modengine] [info] Enabled extension base
+[2025-07-25 13:20:16.028] [modengine] [info] Enabling extension mod_loader
+[2025-07-25 13:20:16.028] [modengine] [info] Installing mod location mod\DMN\DMN_V3_EXP37
+[2025-07-25 13:20:16.028] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN_V3_EXP37
+[2025-07-25 13:20:16.028] [modengine] [info] Installing mod location mod\DMN\DMN-Clever
+[2025-07-25 13:20:16.028] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN-Clever
+[2025-07-25 13:20:16.028] [modengine] [info] Installing mod location mod\DMN\DMN-Vanilla
+[2025-07-25 13:20:16.028] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN-Vanilla
+[2025-07-25 13:20:16.028] [modengine] [info] Installing mod location mod\SKIN\TORRENT
+[2025-07-25 13:20:16.028] [modengine] [warning] Unable to resolve mod path
+[2025-07-25 13:20:16.028] [modengine] [info] Installing mod location mod\SKIN\REVENANT
+[2025-07-25 13:20:16.028] [modengine] [warning] Unable to resolve mod path
+[2025-07-25 13:20:16.028] [modengine] [info] Installing mod location mod\BASIC\remove_weapon_req
+[2025-07-25 13:20:16.028] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\remove_weapon_req
+[2025-07-25 13:20:16.028] [modengine] [info] Installing mod location mod\BASIC\remove_weapon_req
+[2025-07-25 13:20:16.028] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\remove_weapon_req
+[2025-07-25 13:20:16.028] [modengine] [info] Installing mod location mod\BASIC\campur
+[2025-07-25 13:20:16.028] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\campur
+[2025-07-25 13:20:16.028] [modengine] [info] Enabled extension mod_loader
+[2025-07-25 13:20:16.091] [modengine] [info] Applied 3 hooks
+[2025-07-25 13:20:16.095] [modengine] [info] Starting worker thread
+[2025-07-25 13:20:42.643] [modengine] [info] Attempting to load global config at C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\modengine2\config.toml
+[2025-07-25 13:20:42.643] [modengine] [info] Attempting to load mod settings config at C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\config_eldenring.toml
+[2025-07-25 13:20:42.644] [modengine] [info] Local config loaded
+[2025-07-25 13:20:42.644] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2025-07-25 13:20:42.644] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-07-25 13:20:42.644] [modengine] [info] Main thread ID: 18256
+[2025-07-25 13:20:42.647] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\SeamlessCoop/ersc.dll
+[2025-07-25 13:20:44.729] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ertransmogrify.dll
+[2025-07-25 13:20:44.730] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ermerchant.dll
+[2025-07-25 13:20:44.730] [modengine] [info] Enabling extension base
+[2025-07-25 13:20:44.730] [modengine] [info] Enabled extension base
+[2025-07-25 13:20:44.730] [modengine] [info] Enabling extension mod_loader
+[2025-07-25 13:20:44.730] [modengine] [info] Installing mod location mod\DMN\DMN_V3_EXP37
+[2025-07-25 13:20:44.730] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN_V3_EXP37
+[2025-07-25 13:20:44.730] [modengine] [info] Installing mod location mod\DMN\DMN-Clever
+[2025-07-25 13:20:44.731] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN-Clever
+[2025-07-25 13:20:44.731] [modengine] [info] Installing mod location mod\DMN\DMN-Vanilla
+[2025-07-25 13:20:44.731] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN-Vanilla
+[2025-07-25 13:20:44.731] [modengine] [info] Installing mod location mod\SKIN\TORRENT
+[2025-07-25 13:20:44.731] [modengine] [warning] Unable to resolve mod path
+[2025-07-25 13:20:44.731] [modengine] [info] Installing mod location mod\SKIN\REVENANT
+[2025-07-25 13:20:44.731] [modengine] [warning] Unable to resolve mod path
+[2025-07-25 13:20:44.731] [modengine] [info] Installing mod location mod\BASIC\remove_weapon_req
+[2025-07-25 13:20:44.731] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\remove_weapon_req
+[2025-07-25 13:20:44.731] [modengine] [info] Installing mod location mod\BASIC\remove_weapon_req
+[2025-07-25 13:20:44.731] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\remove_weapon_req
+[2025-07-25 13:20:44.731] [modengine] [info] Installing mod location mod\BASIC\campur
+[2025-07-25 13:20:44.731] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\campur
+[2025-07-25 13:20:44.731] [modengine] [info] Enabled extension mod_loader
+[2025-07-25 13:20:44.764] [modengine] [info] Applied 3 hooks
+[2025-07-25 13:20:44.768] [modengine] [info] Starting worker thread
+[2025-07-25 13:21:07.747] [modengine] [info] Attempting to load global config at C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\modengine2\config.toml
+[2025-07-25 13:21:07.747] [modengine] [info] Attempting to load mod settings config at C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\config_eldenring.toml
+[2025-07-25 13:21:07.748] [modengine] [info] Local config loaded
+[2025-07-25 13:21:07.748] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2025-07-25 13:21:07.748] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-07-25 13:21:07.748] [modengine] [info] Main thread ID: 22264
+[2025-07-25 13:21:07.754] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\SeamlessCoop/ersc.dll
+[2025-07-25 13:21:10.090] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ertransmogrify.dll
+[2025-07-25 13:21:10.091] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ermerchant.dll
+[2025-07-25 13:21:10.091] [modengine] [info] Enabling extension base
+[2025-07-25 13:21:10.091] [modengine] [info] Enabled extension base
+[2025-07-25 13:21:10.091] [modengine] [info] Enabling extension mod_loader
+[2025-07-25 13:21:10.091] [modengine] [info] Installing mod location mod\DMN\DMN_V3_EXP37
+[2025-07-25 13:21:10.091] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN_V3_EXP37
+[2025-07-25 13:21:10.092] [modengine] [info] Installing mod location mod\DMN\DMN-Clever
+[2025-07-25 13:21:10.092] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN-Clever
+[2025-07-25 13:21:10.092] [modengine] [info] Installing mod location mod\DMN\DMN-Vanilla
+[2025-07-25 13:21:10.092] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN-Vanilla
+[2025-07-25 13:21:10.092] [modengine] [info] Installing mod location mod\SKIN\TORRENT
+[2025-07-25 13:21:10.092] [modengine] [warning] Unable to resolve mod path
+[2025-07-25 13:21:10.092] [modengine] [info] Installing mod location mod\SKIN\REVENANT
+[2025-07-25 13:21:10.092] [modengine] [warning] Unable to resolve mod path
+[2025-07-25 13:21:10.092] [modengine] [info] Installing mod location mod\BASIC\remove_weapon_req
+[2025-07-25 13:21:10.092] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\remove_weapon_req
+[2025-07-25 13:21:10.092] [modengine] [info] Installing mod location mod\BASIC\remove_weapon_req
+[2025-07-25 13:21:10.092] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\remove_weapon_req
+[2025-07-25 13:21:10.092] [modengine] [info] Installing mod location mod\BASIC\campur
+[2025-07-25 13:21:10.092] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\campur
+[2025-07-25 13:21:10.092] [modengine] [info] Enabled extension mod_loader
+[2025-07-25 13:21:10.125] [modengine] [info] Applied 3 hooks
+[2025-07-25 13:21:10.129] [modengine] [info] Starting worker thread
+[2025-07-25 13:24:08.980] [modengine] [info] Attempting to load global config at C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\modengine2\config.toml
+[2025-07-25 13:24:08.980] [modengine] [info] Attempting to load mod settings config at C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\config_eldenring.toml
+[2025-07-25 13:24:08.981] [modengine] [info] Local config loaded
+[2025-07-25 13:24:08.981] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2025-07-25 13:24:08.981] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-07-25 13:24:08.981] [modengine] [info] Main thread ID: 26472
+[2025-07-25 13:24:08.985] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\SeamlessCoop/ersc.dll
+[2025-07-25 13:24:11.032] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ertransmogrify.dll
+[2025-07-25 13:24:11.034] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ermerchant.dll
+[2025-07-25 13:24:11.034] [modengine] [info] Enabling extension base
+[2025-07-25 13:24:11.034] [modengine] [info] Enabled extension base
+[2025-07-25 13:24:11.034] [modengine] [info] Enabling extension mod_loader
+[2025-07-25 13:24:11.034] [modengine] [info] Installing mod location mod\DMN\DMN_V3_EXP37
+[2025-07-25 13:24:11.034] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN_V3_EXP37
+[2025-07-25 13:24:11.034] [modengine] [info] Installing mod location mod\DMN\DMN-Clever
+[2025-07-25 13:24:11.034] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN-Clever
+[2025-07-25 13:24:11.034] [modengine] [info] Installing mod location mod\DMN\DMN-Vanilla
+[2025-07-25 13:24:11.034] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN-Vanilla
+[2025-07-25 13:24:11.034] [modengine] [info] Installing mod location mod\SKIN\TORRENT
+[2025-07-25 13:24:11.035] [modengine] [warning] Unable to resolve mod path
+[2025-07-25 13:24:11.035] [modengine] [info] Installing mod location mod\SKIN\REVENANT
+[2025-07-25 13:24:11.035] [modengine] [warning] Unable to resolve mod path
+[2025-07-25 13:24:11.035] [modengine] [info] Installing mod location mod\BASIC\remove_weapon_req
+[2025-07-25 13:24:11.035] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\remove_weapon_req
+[2025-07-25 13:24:11.035] [modengine] [info] Installing mod location mod\BASIC\remove_weapon_req
+[2025-07-25 13:24:11.035] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\remove_weapon_req
+[2025-07-25 13:24:11.035] [modengine] [info] Installing mod location mod\BASIC\campur
+[2025-07-25 13:24:11.035] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\campur
+[2025-07-25 13:24:11.035] [modengine] [info] Enabled extension mod_loader
+[2025-07-25 13:24:11.070] [modengine] [info] Applied 3 hooks
+[2025-07-25 13:24:11.073] [modengine] [info] Starting worker thread
+[2025-07-25 13:28:09.644] [modengine] [info] Attempting to load global config at C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\modengine2\config.toml
+[2025-07-25 13:28:09.644] [modengine] [info] Attempting to load mod settings config at C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\config_eldenring.toml
+[2025-07-25 13:28:09.644] [modengine] [info] Local config loaded
+[2025-07-25 13:28:09.644] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2025-07-25 13:28:09.644] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-07-25 13:28:09.644] [modengine] [info] Main thread ID: 20868
+[2025-07-25 13:28:09.648] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\SeamlessCoop/ersc.dll
+[2025-07-25 13:28:12.243] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ertransmogrify.dll
+[2025-07-25 13:28:12.246] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ermerchant.dll
+[2025-07-25 13:28:12.246] [modengine] [info] Enabling extension base
+[2025-07-25 13:28:12.246] [modengine] [info] Enabled extension base
+[2025-07-25 13:28:12.246] [modengine] [info] Enabling extension mod_loader
+[2025-07-25 13:28:12.246] [modengine] [info] Installing mod location mod\DMN\DMN_V3_EXP37
+[2025-07-25 13:28:12.246] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN_V3_EXP37
+[2025-07-25 13:28:12.246] [modengine] [info] Installing mod location mod\DMN\DMN-Clever
+[2025-07-25 13:28:12.246] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN-Clever
+[2025-07-25 13:28:12.246] [modengine] [info] Installing mod location mod\DMN\DMN-Vanilla
+[2025-07-25 13:28:12.246] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN-Vanilla
+[2025-07-25 13:28:12.246] [modengine] [info] Installing mod location mod\SKIN\TORRENT
+[2025-07-25 13:28:12.246] [modengine] [warning] Unable to resolve mod path
+[2025-07-25 13:28:12.246] [modengine] [info] Installing mod location mod\SKIN\REVENANT
+[2025-07-25 13:28:12.246] [modengine] [warning] Unable to resolve mod path
+[2025-07-25 13:28:12.246] [modengine] [info] Installing mod location mod\BASIC\remove_weapon_req
+[2025-07-25 13:28:12.246] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\remove_weapon_req
+[2025-07-25 13:28:12.246] [modengine] [info] Installing mod location mod\BASIC\remove_weapon_req
+[2025-07-25 13:28:12.246] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\remove_weapon_req
+[2025-07-25 13:28:12.246] [modengine] [info] Installing mod location mod\BASIC\campur
+[2025-07-25 13:28:12.246] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\campur
+[2025-07-25 13:28:12.246] [modengine] [info] Enabled extension mod_loader
+[2025-07-25 13:28:12.286] [modengine] [info] Applied 3 hooks
+[2025-07-25 13:28:12.289] [modengine] [info] Starting worker thread
+[2025-07-25 13:31:30.798] [modengine] [info] Attempting to load global config at C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\modengine2\config.toml
+[2025-07-25 13:31:30.799] [modengine] [info] Attempting to load mod settings config at C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\config_eldenring.toml
+[2025-07-25 13:31:30.799] [modengine] [info] Local config loaded
+[2025-07-25 13:31:30.799] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2025-07-25 13:31:30.799] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-07-25 13:31:30.799] [modengine] [info] Main thread ID: 20836
+[2025-07-25 13:31:30.804] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\SeamlessCoop/ersc.dll
+[2025-07-25 13:31:33.130] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ertransmogrify.dll
+[2025-07-25 13:31:33.131] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ermerchant.dll
+[2025-07-25 13:31:33.131] [modengine] [info] Enabling extension base
+[2025-07-25 13:31:33.131] [modengine] [info] Enabled extension base
+[2025-07-25 13:31:33.131] [modengine] [info] Enabling extension mod_loader
+[2025-07-25 13:31:33.131] [modengine] [info] Installing mod location mod\DMN\DMN_V3_EXP37
+[2025-07-25 13:31:33.132] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN_V3_EXP37
+[2025-07-25 13:31:33.132] [modengine] [info] Installing mod location mod\DMN\DMN-Clever
+[2025-07-25 13:31:33.132] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN-Clever
+[2025-07-25 13:31:33.132] [modengine] [info] Installing mod location mod\DMN\DMN-Vanilla
+[2025-07-25 13:31:33.132] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN-Vanilla
+[2025-07-25 13:31:33.132] [modengine] [info] Installing mod location mod\SKIN\TORRENT
+[2025-07-25 13:31:33.132] [modengine] [warning] Unable to resolve mod path
+[2025-07-25 13:31:33.132] [modengine] [info] Installing mod location mod\SKIN\REVENANT
+[2025-07-25 13:31:33.132] [modengine] [warning] Unable to resolve mod path
+[2025-07-25 13:31:33.132] [modengine] [info] Installing mod location mod\BASIC\remove_weapon_req
+[2025-07-25 13:31:33.132] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\remove_weapon_req
+[2025-07-25 13:31:33.132] [modengine] [info] Installing mod location mod\BASIC\remove_weapon_req
+[2025-07-25 13:31:33.132] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\remove_weapon_req
+[2025-07-25 13:31:33.132] [modengine] [info] Installing mod location mod\BASIC\campur
+[2025-07-25 13:31:33.132] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\campur
+[2025-07-25 13:31:33.132] [modengine] [info] Enabled extension mod_loader
+[2025-07-25 13:31:33.169] [modengine] [info] Applied 3 hooks
+[2025-07-25 13:31:33.174] [modengine] [info] Starting worker thread
+[2025-07-25 13:50:02.751] [modengine] [info] Attempting to load global config at C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\modengine2\config.toml
+[2025-07-25 13:50:02.752] [modengine] [info] Attempting to load mod settings config at C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\config_eldenring.toml
+[2025-07-25 13:50:02.752] [modengine] [info] Local config loaded
+[2025-07-25 13:50:02.753] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2025-07-25 13:50:02.753] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-07-25 13:50:02.753] [modengine] [info] Main thread ID: 25064
+[2025-07-25 13:50:02.757] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\SeamlessCoop/ersc.dll
+[2025-07-25 13:50:05.533] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ertransmogrify.dll
+[2025-07-25 13:50:05.538] [modengine] [info] Loaded external DLL C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ermerchant.dll
+[2025-07-25 13:50:05.538] [modengine] [info] Enabling extension base
+[2025-07-25 13:50:05.538] [modengine] [info] Enabled extension base
+[2025-07-25 13:50:05.538] [modengine] [info] Enabling extension mod_loader
+[2025-07-25 13:50:05.538] [modengine] [info] Installing mod location mod\DMN\DMN_V3_EXP37
+[2025-07-25 13:50:05.538] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN_V3_EXP37
+[2025-07-25 13:50:05.538] [modengine] [info] Installing mod location mod\DMN\DMN-Clever
+[2025-07-25 13:50:05.538] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN-Clever
+[2025-07-25 13:50:05.538] [modengine] [info] Installing mod location mod\DMN\DMN-Vanilla
+[2025-07-25 13:50:05.538] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\DMN\DMN-Vanilla
+[2025-07-25 13:50:05.538] [modengine] [info] Installing mod location mod\SKIN\TORRENT
+[2025-07-25 13:50:05.538] [modengine] [warning] Unable to resolve mod path
+[2025-07-25 13:50:05.538] [modengine] [info] Installing mod location mod\SKIN\REVENANT
+[2025-07-25 13:50:05.538] [modengine] [warning] Unable to resolve mod path
+[2025-07-25 13:50:05.538] [modengine] [info] Installing mod location mod\BASIC\remove_weapon_req
+[2025-07-25 13:50:05.538] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\remove_weapon_req
+[2025-07-25 13:50:05.539] [modengine] [info] Installing mod location mod\BASIC\remove_weapon_req
+[2025-07-25 13:50:05.539] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\remove_weapon_req
+[2025-07-25 13:50:05.539] [modengine] [info] Installing mod location mod\BASIC\campur
+[2025-07-25 13:50:05.539] [modengine] [info] Resolved mod path to C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\mod\BASIC\campur
+[2025-07-25 13:50:05.539] [modengine] [info] Enabled extension mod_loader
+[2025-07-25 13:50:05.579] [modengine] [info] Applied 3 hooks
+[2025-07-25 13:50:05.584] [modengine] [info] Starting worker thread

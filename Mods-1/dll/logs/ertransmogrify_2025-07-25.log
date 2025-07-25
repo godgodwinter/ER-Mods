@@ -1,0 +1,18 @@
+[2025-07-25 13:20:15.989] [transmog] [info] Transmog version 2.4.10
+[2025-07-25 13:20:15.989] [transmog] [info] Loading config from C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ertransmogrify.ini
+[2025-07-25 13:20:15.995] [transmog] [info] include_unobtained_armor = true
+[2025-07-25 13:20:15.995] [transmog] [info] include_cut_armor = true
+[2025-07-25 13:20:15.995] [transmog] [info] include_dlc_armor = true
+[2025-07-25 13:20:15.995] [transmog] [info] patch_grace_talk_script = true
+[2025-07-25 13:20:15.995] [transmog] [info] initialize_delay = 0
+[2025-07-25 13:20:15.995] [transmog] [info] client_side_only = false
+[2025-07-25 13:20:16.166] [transmog] [info] Deinitialized transmog
+[2025-07-25 13:20:44.729] [transmog] [info] Transmog version 2.4.10
+[2025-07-25 13:20:44.729] [transmog] [info] Loading config from C:\Users\ADMIN\Documents\EldenRings\ER_babeng\ER-Mods\Mods-1\dll\ertransmogrify.ini
+[2025-07-25 13:20:44.729] [transmog] [info] include_unobtained_armor = true
+[2025-07-25 13:20:44.729] [transmog] [info] include_cut_armor = true
+[2025-07-25 13:20:44.729] [transmog] [info] include_dlc_armor = true
+[2025-07-25 13:20:44.729] [transmog] [info] patch_grace_talk_script = true
+[2025-07-25 13:20:44.729] [transmog] [info] initialize_delay = 0
+[2025-07-25 13:20:44.729] [transmog] [info] client_side_only = false
+[2025-07-25 13:20:44.819] [transmog] [info] Deinitialized transmog
