@@ -1440,7 +1440,7 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>- Tree Sentinel</Name>
+      <Name>- Merchant / Build + Medal</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1449,7 +1449,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>- Merchant / Build + Medal</Name>
+      <Name>- Tree Sentinel</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1471,7 +1471,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>2. Godrick </Name>
+      <Name>2. Godrick</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1488,7 +1488,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-2. TP Raya</Name>
+      <Name>- TP Raya</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1508,7 +1508,20 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>3. Radahn </Name>
+      <Name>- Max Weapon</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="-31" />
+        <Time id="-19" />
+        <Time id="-15" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>3. Radahn</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1523,6 +1536,9 @@
           <GameTime>00:00:56.0390000</GameTime>
         </Time>
         <Time id="-15" />
+        <Time id="-31">
+          <GameTime>00:00:55.2160000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1564,7 +1580,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>6. Morgott  </Name>
+      <Name>6. Morgott</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1604,7 +1620,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>8. Godskin Duo </Name>
+      <Name>8. Godskin Duo</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1627,7 +1643,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>9. Maliketh </Name>
+      <Name>9. Maliketh</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1667,7 +1683,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>11. Godfrey / Hoarah Loux  </Name>
+      <Name>11. Godfrey / Hoarah Loux</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1760,11 +1776,11 @@
         <GameTime>00:00:25.9400000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="-19">
-          <GameTime>00:00:35.7870000</GameTime>
-        </Time>
         <Time id="-30">
           <GameTime>00:00:25.9400000</GameTime>
+        </Time>
+        <Time id="-19">
+          <GameTime>00:00:35.7870000</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>

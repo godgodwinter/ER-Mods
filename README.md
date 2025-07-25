@@ -2,7 +2,7 @@
 
 # 
 
-# Kumpulan mod dan tools untuk \*\*Elden Ring\*\*.
+# Mods \*\*Elden Ring\*\*.
 
 # 
 
