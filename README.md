@@ -4,7 +4,7 @@
 
 # Kumpulan mod dan tools untuk \*\*Elden Ring\*\*.
 
-# a
+# 
 
 # ---
 
@@ -24,7 +24,17 @@
 
 # \## 🏁 Splits
 
-# \- \*\*BB-RUN\*\*: Any%
+# \- BB-RUN : Any%
+
+# 
+
+# ---
+
+# 
+
+# \## 🏁 Guide
+
+# \- BB-RUN Boss Stats
 
 # 
 
@@ -50,11 +60,11 @@
 
 # \- Transmogrify Armor  
 
-# \- ~~DFM // Duchess Moveset~~  
+# \- DMN / Deflect Me Not
 
 # \- remove\_weapon\_req  
 
-# \- ~~\*\*Seamless Co-op\*\*~~
+# \- Seamless Co-op
 
 # 
 
@@ -73,6 +83,7 @@
 # \- \[DMN / Deflect Me Not (24 Jul 2025)](https://www.nexusmods.com/eldenring/mods/4138)  
 
 # \- \[Seamless Co-op (21 Jan 2025)](https://www.nexusmods.com/eldenring/mods/510)
+
 
 
 
